@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.item{
+	height:100px;
+	width:100px;
+}
+.item:nth-child(1){
+	background-color:green;
+}
+.item:nth-child(3){
+	background-color:blue;
+}
+.item:nth-child(2){
+	background-color:red;
+}
+	flex-wrap:wrap;
+}
+.item{
+	height:100px;
+	width:100px;
+}
+.item:nth-child(1){
+	background-color:green;
+}
+.item:nth-child(3){
+	background-color:blue;
+}
+.item:nth-child(2){
+	background-color:red;
+}
